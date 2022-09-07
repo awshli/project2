@@ -1,0 +1,23 @@
+h1 h2 {
+    font-family: 'Georgia', sans-serif;                                          
+}
+.heading1 {
+    color: blue;
+    background-color: lightgray;
+    letter-spacing: 1.6em;
+    word-spacing: 2em;
+    text-align: center;
+}
+.heading2 {
+    color: darkred;
+    font-size: 18px;
+    letter-spacing: 1.4em;
+}
+
+.education p {
+    padding-left: 100px;
+    align-items: center;
+}
+.child-education {
+    display: flex;
+}

@@ -1,0 +1,26 @@
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: yellow;
+}
+.container  {
+    display: flex;
+    margin: 5px;
+}
+.left-container{
+    width: 250px;
+}
+.center-container {
+    border-left: 2px solid green;
+    padding-left: 10px;
+    width: 1040px;
+}
+.right-container {
+    border: 1px dotted green;
+    max-height: 150px;
+}
+footer {
+    display: flex;
+    justify-content: center;
+}

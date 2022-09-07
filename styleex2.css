@@ -1,0 +1,31 @@
+.main-container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid black;
+    max-width: 500px;
+}
+.header {
+    display: flex;
+    align-items: center;
+}
+.nav-bar ul {
+    display: flex;
+}
+.nav-bar ul p {
+    padding:10px;
+}
+.container {
+    display: flex;
+}
+.left-container {
+    padding-right: 50px;
+}
+.right-container {
+    padding-left: 50px;
+    border-left: 2px solid blue;
+}
+footer {
+    text-align: center;
+}
